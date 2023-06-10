@@ -1,0 +1,5 @@
+C:/Users/User/Downloads/C++Lessons/Final_Project_copy/build-src-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/body.dir
+C:/Users/User/Downloads/C++Lessons/Final_Project_copy/build-src-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Downloads/C++Lessons/Final_Project_copy/build-src-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Downloads/C++Lessons/Final_Project_copy/build-src-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/body_autogen_timestamp_deps.dir
+C:/Users/User/Downloads/C++Lessons/Final_Project_copy/build-src-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/body_autogen.dir
